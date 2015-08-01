@@ -1,0 +1,8 @@
+composer.phar
+.idea
+user_guide
+license.txt
+contributing.md
+readme.rst
+vendor
+composer.lock
